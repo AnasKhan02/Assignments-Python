@@ -1,0 +1,24 @@
+OOPS
+----
+1. Write a program to create a class by name Students, and initialize attributes like name, age, and grade while creating an object.
+
+2. Write a Program to create a valid empty class with the name Students, with no properties.
+
+3. Write a program to create a child class Teacher that will inherit the properties from the parent class Staff.
+
+4. Write a program to create a class and, using the class instance, print all the writable attributes of that object.
+
+5. Create a class Teacher with name, age, and salary attributes, where salary must be a private attribute that cannot be accessed outside the class.
+
+6.Write a Python program that overloads the operator + and > for a custom class.
+
+7. Write a Python program that checks if one class is a subclass of another.
+
+8. Write a Python program that lists all the default and custom properties of the class.
+
+9.  Write a Python program to implement a stack data structure using class and objects, with push, pop, and traversal methods.
+
+10. Write a program that prints the class name using its object.
+
+11. Write a Python class, Square, and define two methods that return the square area and perimeter.
+

@@ -1,0 +1,22 @@
+1. Python Program to Find Common Characters in Two Strings
+
+2. Python Program to Count Number of Vowels in a String using Sets
+
+3. Python Program to Check if a Given String is Palindrome
+
+4. Python Program to Check whether two Strings are Anagrams
+
+5. Python Program to Check if a Key Exists in a Dictionary or Not
+
+6. Python Program to Find the Sum of All the Items in a Dictionary
+
+7. Python Program to Map Two Lists into a Dictionary
+
+8. Python Program to Count the Frequency of Each Word in a String using Dictionary
+   "Train Bus Bus Train Taxi Aeroplane Taxi Bus Apple Mango Orange Mango Guava Guava Mango"
+
+9. Python Program to Create a List of Tuples with the First Element as the Number and Second Element as the Square of the Number
+
+10.Write a Python function that takes a list and returns a new list with distinct elements from the first list.
+
+11. Write a Python function that takes a number as a parameter and checks whether the number is prime or not.

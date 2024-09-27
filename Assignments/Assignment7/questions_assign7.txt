@@ -1,0 +1,42 @@
+1. Write a Python program to find sequences of lowercase letters joined with a underscore.
+
+2. Write a python program to validate a emailid - (abc@gmail.com. xyz.k@ibm.com, abc_get@wipro.com)
+
+3. write a regex to find how many words are starting with characters - a, e, i, o, u give a count of it
+
+4. write a regex to how many words do not have chararacters like - a, e, c, t give a count of it
+
+5. For the given list, filter all elements that do not contain e.
+
+6. For the given input string, display all lines not containing start irrespective of case.
+
+7. For the given input list, filter all elements that contain 4 surrounded by word characters.
+
+8. For the given list, filter all elements having a line starting with den or ending with ly.
+
+9.  Replace any matching element from the list items with X for given the input strings. Match the elements from items literally. Assume no two elements of items will result in any matching conflict.
+
+10. Extract all hex character sequences, with 0x optional prefix. Match the characters case insensitively, and the sequences shouldn't be surrounded by other word characters.
+
+11.Count the number of whole words that have at least two occurrences of consecutive repeated alphabets. For example, words like stillness and Committee should be counted but not words like root or readable or rotational.
+
+>>> ip = '''oppressed abandon accommodation bloodless
+... carelessness committed apparition innkeeper
+... occasionally afforded embarrassment foolishness
+... depended successfully succeeded
+... possession cleanliness suppress'''
+
+12. Extract all whole words only if they are preceded by = or : and followed by : or ..
+
+>>> ip = 'Poke,on=-=so_good:ink.to/is(vast)ever2-sit'
+
+13. Remove the leading and trailing whitespaces from all the individual fields where , is the field separator.
+
+
+>>> csv1 = ' comma  ,separated ,values \t\r '
+>>> csv2 = 'good bad,nice  ice  , 42 , ,   stall   small'
+
+
+
+
+

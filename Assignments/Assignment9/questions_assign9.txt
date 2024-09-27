@@ -1,0 +1,9 @@
+1. Write a python program that has arithematic functions like add, delete, multiply and divide convert it into a module and consume it
+
+2. write a python module that displays data from a csv file in a table format (use pretty table) should be implemented like a decorator
+
+3. write a python code that takes the arguments passed and diplays a doted line before and after the data (use decorator)
+
+4. complete the following code shared with this code - DecoratorConsumer.py, BankConsumer.py
+
+

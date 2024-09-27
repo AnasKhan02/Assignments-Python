@@ -1,0 +1,21 @@
+Packages and Modules
+--------------------
+
+1. create a python module that has functions to perform the following tasks
+
+	a. find the factorial of number
+	b. generate fibanocci series
+
+2. create a python module that has functions to perform sorting if a list is passed to it
+
+	a. bubble sort
+	b. insertion sort
+	c. heap sort
+	d. quick sort
+
+
+3. create a python module that has a function that can be consumed as a decorator which is used to calculate the time taken by a function to execute
+
+4. create a python module that has a abstract class example
+   (student class and every student should study,  writeexams which are abstractmethods and attendclass is a normal method.
+
